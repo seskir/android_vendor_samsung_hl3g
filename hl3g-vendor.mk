@@ -27,4 +27,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/samsung/hl3g/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/hl3g/proprietary/vendor/firmware/bcm4335_V0105.0540.hcd:system/vendor/firmware/bcm4335_V0105.0540.hcd \
-    vendor/samsung/hl3g/proprietary/vendor/firmware/bcm4335_V0105.0540_wisol.hcd:system/vendor/firmware/bcm4335_V0105.0540_wisol.hcd
+    vendor/samsung/hl3g/proprietary/vendor/firmware/bcm4335_V0105.0540_wisol.hcd:system/vendor/firmware/bcm4335_V0105.0540_wisol.hcd \
+    vendor/samsung/hl3g/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
+    vendor/samsung/hl3g/proprietary/lib/libatparser.so:system/lib/libatparser.so \
+    vendor/samsung/hl3g/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
+    vendor/samsung/hl3g/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
+    vendor/samsung/hl3g/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/hl3g/proprietary/lib/libutils.so:system/lib/libutils.so
+    
