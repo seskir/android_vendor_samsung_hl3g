@@ -33,5 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/hl3g/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/hl3g/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/hl3g/proprietary/lib/libutils.so:system/lib/libutils.so
+    vendor/samsung/hl3g/proprietary/lib/libutils.so:system/lib/libutils.so \
+    vendor/samsung/hl3g/proprietary/app/FixAudio/FixAudio.apk:system/app/FixAudio/FixAudio.apk \
+    vendor/samsung/hl3g/proprietary/etc/init.d/FixAudio:system/etc/init.d/FixAudio
     
